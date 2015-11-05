@@ -6,7 +6,10 @@
     "speed/speed-intro.md",
     "speed/speed.md",
     "cn-iterative.md",
-	"cn-pie.md",
+    [
+      "cn-pie1.md",
+      "cn-pie2.md"
+    ],
     "culture/topics.md",
     "culture/silos.md",
     "culture/silos-dev-ops.md",
