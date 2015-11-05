@@ -1,6 +1,34 @@
 {
-  "title": "Microservices",
+  "title": "Cloud Native Journey",
   "slides": [
-	"title.md"
+	"title.md",
+	"maritz-quote.md",
+    "cn-pie.md",
+    "cn-iterative.md",
+    "culture/topics.md",
+    "culture/silos.md",
+    "culture/silos-dev-ops.md",
+    "culture/punc-eq.md",
+    "culture/continuous-delivery.md",
+    "org/topics.md",
+    "org/conways-law.md",
+    "org/siloed-teams.md",
+    "org/business-capability.md",
+    "org/business-capability-examples.md",
+    "org/platform-ops.md",
+    "org/self-service.md",
+    "tech/topics.md",
+    "tech/decompose-monolith.md",
+    "tech/decompose-data.md",
+    "tech/polyglot-persistence.md",
+    "tech/containers.md",
+    "tech/esb.md",
+    "tech/microservice.md",
+	"cn-platform.md",
+	"cn-framework.md",
+    "cn-pcf.md",
+	"cn-spring-boot.md",
+    "cn-spring-cloud.md",
+	"demo.md"
   ]
 }
